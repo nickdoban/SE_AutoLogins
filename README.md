@@ -7,5 +7,5 @@ Prerequisites: Chrome driver from http://chromedriver.chromium.org/downloads Put
 
 How to:
 
-Put both files in the same directory.
-Put the .bat file on the task scheduler
+1. Put both files in the same directory.
+2. Put the .bat file on the task scheduler
