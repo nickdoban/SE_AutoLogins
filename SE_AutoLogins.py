@@ -1,4 +1,5 @@
-import time; from selenium import webdriver
+import time
+from selenium import webdriver
 print('{}: START'.format(time.strftime('%d%b%Y %H:%M:%S:')))
 # inputs
 email = 'EMAIL'
