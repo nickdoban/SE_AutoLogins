@@ -30,7 +30,7 @@ for kk, vv in dict_urls.items():
     # hit Enter
     field_pw.send_keys(u'\ue007')
     # sleep for some time; 7 seconds
-    # time.sleep(7)
+    time.sleep(7)
     # close browser
     driver.quit()
 print('{}: END\n'.format(time.strftime('%d%b%Y %H:%M:%S:')))
