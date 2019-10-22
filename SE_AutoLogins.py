@@ -1,3 +1,5 @@
+## check chrome browser version and download/update chrome driver: http://chromedriver.chromium.org/downloads
+
 import time
 from selenium import webdriver
 print('{}: START'.format(time.strftime('%d%b%Y %H:%M:%S:')))
